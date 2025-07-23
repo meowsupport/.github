@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: ibosupport
+          user: meowsupport
           template: classic
           config_display: columns
           base: header, activity, community, repositories, metadata
